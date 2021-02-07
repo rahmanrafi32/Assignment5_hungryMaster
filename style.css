@@ -7,3 +7,9 @@
   width: 40%;
   padding: 2px 16px;
 }
+
+.foodItem {
+  width: 250px;
+  text-align: center;
+  margin: auto;
+}
